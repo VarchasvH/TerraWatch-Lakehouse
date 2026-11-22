@@ -1,0 +1,51 @@
+# Secrets and local config (never commit these)
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials
+*.tfvars
+!example.tfvars
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+build/
+dist/
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+.terraform.lock.hcl.backup
+
+# AWS CDK
+cdk.out/
+node_modules/
+
+# Lambda / Glue packaging artifacts
+*.zip
+package/
+
+# Local data and notebooks
+data/
+*.parquet
+*.csv
+.ipynb_checkpoints/
+
+# Keep small curated API samples in git
+!samples/
+!samples/**
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
