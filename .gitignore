@@ -50,4 +50,6 @@ data/
 .idea/
 .DS_Store
 
+# My Stuff
 .passwords.md
+checklist.md

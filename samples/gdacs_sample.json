@@ -1,0 +1,355 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "bbox": [
+        93.7797,
+        32.3805,
+        93.7797,
+        32.3805
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.7797,
+          32.3805
+        ]
+      },
+      "properties": {
+        "eventtype": "EQ",
+        "eventid": 1573141,
+        "episodeid": 1741837,
+        "eventname": "",
+        "glide": "",
+        "name": "Earthquake in China",
+        "description": "Earthquake in China",
+        "htmldescription": "Orange M 7 Earthquake in China at: 22 Oct 2026 14:33:40.",
+        "icon": "https://www.gdacs.org/images/gdacs_icons/maps/Orange/EQ.png",
+        "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Orange/EQ.png",
+        "url": {
+          "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=EQ&eventid=1573141&episodeid=1741837",
+          "report": "https://www.gdacs.org/report.aspx?eventid=1573141&episodeid=1741837&eventtype=EQ",
+          "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=EQ&eventid=1573141"
+        },
+        "alertlevel": "Orange",
+        "alertscore": 2,
+        "episodealertlevel": "Orange",
+        "episodealertscore": 1.94808711206828,
+        "istemporary": "false",
+        "iscurrent": "false",
+        "country": "China",
+        "fromdate": "2026-10-22T14:33:40",
+        "todate": "2026-10-22T14:33:40",
+        "datemodified": "2026-11-04T02:04:22",
+        "iso3": "CHN",
+        "source": "NEIC",
+        "sourceid": "",
+        "polygonlabel": "Centroid",
+        "Class": "Point_Centroid",
+        "affectedcountries": [
+          {
+            "iso2": "CN",
+            "iso3": "CHN",
+            "countryname": "China"
+          }
+        ],
+        "severitydata": {
+          "severity": 7.0,
+          "severitytext": "Magnitude 7M, Depth:18km",
+          "severityunit": "M"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [
+        -81.6339,
+        7.8267,
+        -81.6339,
+        7.8267
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6339,
+          7.8267
+        ]
+      },
+      "properties": {
+        "eventtype": "EQ",
+        "eventid": 1571215,
+        "episodeid": 1739687,
+        "eventname": "",
+        "glide": "",
+        "name": "Earthquake in Panama",
+        "description": "Earthquake in Panama",
+        "htmldescription": "Green M 4.5 Earthquake in Panama at: 12 Oct 2026 23:45:13.",
+        "icon": "https://www.gdacs.org/images/gdacs_icons/maps/Green/EQ.png",
+        "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Green/EQ.png",
+        "url": {
+          "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=EQ&eventid=1571215&episodeid=1739687",
+          "report": "https://www.gdacs.org/report.aspx?eventid=1571215&episodeid=1739687&eventtype=EQ",
+          "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=EQ&eventid=1571215"
+        },
+        "alertlevel": "Green",
+        "alertscore": 1,
+        "episodealertlevel": "Green",
+        "episodealertscore": 0.0,
+        "istemporary": "false",
+        "iscurrent": "false",
+        "country": "Panama",
+        "fromdate": "2026-10-12T23:45:13",
+        "todate": "2026-10-12T23:45:13",
+        "datemodified": "2026-10-13T03:06:33",
+        "iso3": "PAN",
+        "source": "NEIC",
+        "sourceid": "",
+        "polygonlabel": "Centroid",
+        "Class": "Point_Centroid",
+        "affectedcountries": [
+          {
+            "iso2": "PA",
+            "iso3": "PAN",
+            "countryname": "Panama"
+          }
+        ],
+        "severitydata": {
+          "severity": 4.5,
+          "severitytext": "Magnitude 4.5M, Depth:10km",
+          "severityunit": "M"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [
+        80.2,
+        15.8,
+        80.2,
+        15.8
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2,
+          15.8
+        ]
+      },
+      "properties": {
+        "eventtype": "TC",
+        "eventid": 1001346,
+        "episodeid": 10,
+        "eventname": "MURASU-26",
+        "glide": "TC-2026-000199-IND",
+        "name": "Tropical Cyclone MURASU-26",
+        "description": "Tropical Cyclone MURASU-26",
+        "htmldescription": "Red Tropical Cyclone MURASU-26 in India from: 01 Nov 2026  to: 03 Nov 2026 .",
+        "icon": "https://www.gdacs.org/images/gdacs_icons/maps/Red/TC.png",
+        "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Red/TC.png",
+        "url": {
+          "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=TC&eventid=1001346&episodeid=10",
+          "report": "https://www.gdacs.org/report.aspx?eventid=1001346&episodeid=10&eventtype=TC",
+          "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=TC&eventid=1001346"
+        },
+        "alertlevel": "Red",
+        "alertscore": 3,
+        "episodealertlevel": "Red",
+        "episodealertscore": 3.0,
+        "istemporary": "false",
+        "iscurrent": "false",
+        "country": "India",
+        "fromdate": "2026-11-01T00:00:00",
+        "todate": "2026-11-03T06:00:00",
+        "datemodified": "2026-11-04T06:01:20",
+        "iso3": "IND",
+        "source": "JTWC",
+        "sourceid": "",
+        "polygonlabel": "Centroid",
+        "Class": "Point_Centroid",
+        "countryonland": "",
+        "affectedcountries": [
+          {
+            "iso2": "IN",
+            "iso3": "IND",
+            "countryname": "India"
+          }
+        ],
+        "severitydata": {
+          "severity": 157.4064,
+          "severitytext": "Hurricane/Typhoon > 74 mph (maximum wind speed of 157 km/h)",
+          "severityunit": "km/h"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [
+        -110.3,
+        21.5,
+        -110.3,
+        21.5
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.3,
+          21.5
+        ]
+      },
+      "properties": {
+        "eventtype": "TC",
+        "eventid": 1001335,
+        "episodeid": 38,
+        "eventname": "SIMON-26",
+        "glide": "",
+        "name": "Tropical Cyclone SIMON-26",
+        "description": "Tropical Cyclone SIMON-26",
+        "htmldescription": "Orange Tropical Cyclone SIMON-26 in M\u00e9xico from: 07 Oct 2026  to: 16 Oct 2026 .",
+        "icon": "https://www.gdacs.org/images/gdacs_icons/maps/Green/TC.png",
+        "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Orange/TC.png",
+        "url": {
+          "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=TC&eventid=1001335&episodeid=38",
+          "report": "https://www.gdacs.org/report.aspx?eventid=1001335&episodeid=38&eventtype=TC",
+          "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=TC&eventid=1001335"
+        },
+        "alertlevel": "Orange",
+        "alertscore": 2,
+        "episodealertlevel": "Green",
+        "episodealertscore": 1.0,
+        "istemporary": "false",
+        "iscurrent": "false",
+        "country": "M\u00e9xico",
+        "fromdate": "2026-10-07T15:00:00",
+        "todate": "2026-10-16T21:00:00",
+        "datemodified": "2026-10-17T17:37:52",
+        "iso3": "MEX",
+        "source": "NOAA",
+        "sourceid": "",
+        "polygonlabel": "Centroid",
+        "Class": "Point_Centroid",
+        "countryonland": "",
+        "affectedcountries": [],
+        "severitydata": {
+          "severity": 249.9984,
+          "severitytext": "Tropical Depression (maximum wind speed of 250 km/h)",
+          "severityunit": "km/h"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [
+        77.27,
+        -10.08,
+        77.27,
+        -10.08
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.27,
+          -10.08
+        ]
+      },
+      "properties": {
+        "eventtype": "TC",
+        "eventid": 1001352,
+        "episodeid": 1,
+        "eventname": "03-20262027-27",
+        "glide": "",
+        "name": "Tropical Cyclone 03-20262027-27",
+        "description": "Tropical Cyclone 03-20262027-27",
+        "htmldescription": "Green Tropical Cyclone 03-20262027-27 off-shore from: 24 Nov 2026  to: 24 Nov 2026 .",
+        "icon": "https://www.gdacs.org/images/gdacs_icons/maps/Green/TC.png",
+        "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Green/TC.png",
+        "url": {
+          "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=TC&eventid=1001352&episodeid=1",
+          "report": "https://www.gdacs.org/report.aspx?eventid=1001352&episodeid=1&eventtype=TC",
+          "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=TC&eventid=1001352"
+        },
+        "alertlevel": "Green",
+        "alertscore": 1,
+        "episodealertlevel": "Green",
+        "episodealertscore": 1.0,
+        "istemporary": "false",
+        "iscurrent": "true",
+        "country": "",
+        "fromdate": "2026-11-24T06:00:00",
+        "todate": "2026-11-24T06:00:00",
+        "datemodified": "2026-11-24T07:20:03",
+        "iso3": "",
+        "source": "RSMC",
+        "sourceid": "",
+        "polygonlabel": "Centroid",
+        "Class": "Point_Centroid",
+        "countryonland": "",
+        "affectedcountries": [],
+        "severitydata": {
+          "severity": 63.332928,
+          "severitytext": "Tropical Depression (maximum wind speed of 63 km/h)",
+          "severityunit": "km/h"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [
+        97.0253,
+        4.3685,
+        97.0253,
+        4.3685
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.0253,
+          4.3685
+        ]
+      },
+      "properties": {
+        "eventtype": "FL",
+        "eventid": 1104253,
+        "episodeid": 6,
+        "eventname": "",
+        "glide": "",
+        "name": "Flood in Indonesia",
+        "description": "Flood in Indonesia",
+        "htmldescription": "Green Flood in Indonesia from: 24 Oct 2026 01 to: 25 Nov 2026 01.",
+        "icon": "https://www.gdacs.org/images/gdacs_icons/maps/Green/FL.png",
+        "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Green/FL.png",
+        "url": {
+          "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=FL&eventid=1104253&episodeid=6",
+          "report": "https://www.gdacs.org/report.aspx?eventid=1104253&episodeid=6&eventtype=FL",
+          "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=FL&eventid=1104253"
+        },
+        "alertlevel": "Green",
+        "alertscore": 1,
+        "episodealertlevel": "Green",
+        "episodealertscore": 0.5,
+        "istemporary": "false",
+        "iscurrent": "true",
+        "country": "Indonesia",
+        "fromdate": "2026-10-24T01:00:00",
+        "todate": "2026-11-25T01:00:00",
+        "datemodified": "2026-11-24T07:05:19",
+        "iso3": "IDN",
+        "source": "GLOFAS",
+        "sourceid": "",
+        "polygonlabel": "Centroid",
+        "Class": "Point_Centroid",
+        "affectedcountries": [
+          {
+            "iso2": "ID",
+            "iso3": "IDN",
+            "countryname": "Indonesia"
+          }
+        ],
+        "severitydata": {
+          "severity": 0.0,
+          "severitytext": "Magnitude 0 ",
+          "severityunit": ""
+        }
+      }
+    }
+  ]
+}
